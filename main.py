@@ -1,4 +1,7 @@
-"""Copy entry.txt to the output directory for the make.fun entry."""
+"""Copy entry.txt to the output directory for the make.fun entry.
+
+The entry is one line from a robot vacuum, at most 140 characters.
+"""
 import os
 import shutil
 
